@@ -17,22 +17,22 @@
 
 ## About
 
-I'm a Mechanical Engineering graduate who spent 5+ years at the intersection of **content strategy, technical SEO, and full-stack web infrastructure** — and I'm now building toward **AI-powered systems engineering**.
+I'm a Mechanical Engineering graduate who spent 5+ years at the intersection of **content strategy, technical SEO, and full-stack web infrastructure**, and I'm now building toward **AI-powered systems engineering**.
 
-My edge isn't just knowing the tools. It's knowing what breaks in production, why a 500-page multilingual site falls apart under the wrong schema, and how to wire an AI automation system that actually fits into a business workflow — not just a demo environment.
+My edge isn't just knowing the tools. It's knowing what breaks in production, why a 500-page multilingual site falls apart under the wrong schema, and how to wire an AI automation system that actually fits into a business workflow, not just a demo environment.
 
-Currently managing global web and content operations for an industrial B2B company across UK, India, Germany, and the Middle East — while systematically building AI and DevOps depth.
+Currently managing global web and content operations for an industrial B2B company across UK, India, Germany, and the Middle East, while systematically building AI and DevOps depth.
 
 ---
 
 ## What I'm Building Right Now
 
-> Three applied projects in active development — each one solving a real problem I've faced professionally.
+> Three applied projects in active development, each one solving a real problem I've faced professionally.
 
 ### 🔍 AI Content Brief Generator
 `n8n` `Claude API` `Google Search Console API` `PostgreSQL`
 
-Automated pipeline that takes a target keyword, pulls live SERP data and GSC signals, runs competitor content analysis, and outputs a structured content brief via Claude — eliminating 2–3 hours of manual research per brief.
+Automated pipeline that takes a target keyword, pulls live SERP data and GSC signals, runs competitor content analysis, and outputs a structured content brief via Claude, eliminating 2–3 hours of manual research per brief.
 
 **Status:** Core pipeline complete · Adding semantic clustering
 
@@ -41,7 +41,7 @@ Automated pipeline that takes a target keyword, pulls live SERP data and GSC sig
 ### 📊 GSC Anomaly Detection Bot
 `Python` `Google Search Console API` `Claude API` `Slack Webhooks`
 
-Monitors Search Console metrics daily, flags traffic/ranking drops using statistical baselines, and sends a natural-language diagnosis to Slack — replacing manual weekly audits with automated intelligence.
+Monitors Search Console metrics daily, flags traffic/ranking drops using statistical baselines, and sends a natural-language diagnosis to Slack replacing manual weekly audits with automated intelligence.
 
 **Status:** Anomaly detection logic built · Integrating LLM diagnosis layer
 
@@ -50,7 +50,7 @@ Monitors Search Console metrics daily, flags traffic/ranking drops using statist
 ### 🕵️ Competitor Content Monitor
 `n8n` `Web Scraping` `Claude API` `PostgreSQL` `Slack`
 
-Tracks competitor blogs, detects new content within 24 hours, summarizes strategic intent using Claude, and delivers a weekly competitive intelligence digest — without any manual monitoring.
+Tracks competitor blogs, detects new content within 24 hours, summarizes strategic intent using Claude, and delivers a weekly competitive intelligence digest without any manual monitoring.
 
 **Status:** Scraping and diff logic complete · Building summary workflow
 
@@ -109,11 +109,10 @@ Currently Learning       →  Kubernetes · Terraform · GitHub Actions · AWS S
 
 ## Certifications & Learning (In Progress)
 
-- 🔄 **IBM RAG & Agentic AI Professional Certificate** — LangChain, LangGraph, CrewAI, AutoGen, MCP *(Active)*
-- 🔄 **Google IT Automation with Python** — Python, OS automation, configuration management *(Active)*
-- 📋 **Red Hat Enterprise Linux 9** — System administration fundamentals *(Completed)*
-- 📋 **AWS Solutions Architect Associate** — *(Upcoming — Phase 4)*
-- 📋 **Google Cybersecurity Professional Certificate** — *(Upcoming — Phase 3)*
+- 🔄 **IBM RAG & Agentic AI Professional Certificate**: LangChain, LangGraph, CrewAI, AutoGen, MCP *(Active)*
+- 🔄 **Google IT Automation with Python**: Python, OS automation, configuration management *(Active)*
+- 📋 **Red Hat Enterprise Linux 9**: System administration fundamentals
+- 📋 **Google Cybersecurity Professional Certificate**
 
 ---
 
@@ -131,10 +130,10 @@ Long term   →  End-to-end infrastructure ownership for AI-powered products
 
 I'm open to roles and projects in:
 
-- **AI/Automation Engineering** — building agent pipelines, RAG systems, workflow automation
-- **DevOps / Infrastructure** — container orchestration, CI/CD, cloud operations
-- **Marketing Operations** — AI-augmented content systems, SEO infrastructure, RevOps tooling
-- **Technical Consulting** — Cloudflare architecture, VPS optimization, WordPress-to-Next.js migrations
+- **AI/Automation Engineering**: building agent pipelines, RAG systems, workflow automation
+- **DevOps / Infrastructure**: container orchestration, CI/CD, cloud operations
+- **Marketing Operations**: AI-augmented content systems, SEO infrastructure, RevOps tooling
+- **Technical Consulting**: Cloudflare architecture, VPS optimization, WordPress-to-Next.js migrations
 
 ---
 
